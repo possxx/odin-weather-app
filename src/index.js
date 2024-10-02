@@ -7,7 +7,7 @@ const DOMElements = {
 		settingsMetric: document.querySelector('.metric'),
 		settingsUS: document.querySelector('.us'),
 	},
-	input: document.querySelector('input[type="text"]'),
+	input: document.querySelector('input'),
 	loader: document.querySelector('.loader'),
 	background: document.querySelector('.bg'),
 	error: document.querySelector('.error'),
